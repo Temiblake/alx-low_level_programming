@@ -1,15 +1,19 @@
 #include<stdio.h>
 /**
- * main Entry point for this
+ * main - Entry point for this
  * Return: Always 0
  */
 
 int main(void)
 {
 	char c;
+
 	c = 'a';
-	while 
+
+	while
+
 		(c <= 'z') {
+
 			putchar(c);
 			c++;
 		}
